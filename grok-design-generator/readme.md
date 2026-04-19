@@ -1,4 +1,4 @@
-# 🚀 GROK XAI AI Design Generator
+# 🚀 Chat GPT AI Design Generator
 
 **AI-генератор дизайну для WordPress** — створює та редагує блоки, шаблони сторінок і цілі теми за допомогою OpenAI прямо в Gutenberg.
 
