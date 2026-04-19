@@ -3,6 +3,7 @@
 
 **The most powerful AI-powered design tool for WordPress** — instantly creates and edits blocks, full page templates, and complete Block Themes using OpenAI directly inside the Gutenberg editor.
 
+![SCREEN](grokscreen.jpg)
 **Version:** 4.0.2  
 **Author:** Grok + Руслан  
 **License:** GPL-2.0+
