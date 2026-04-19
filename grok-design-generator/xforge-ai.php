@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/yourname/ai-design-generator
  * Description:       Генерує блоки, шаблони, теми та редагує існуючі теми через OpenAI в Gutenberg. Повністю робочий, без deprecated warnings.
  * Version:           4.0.2
- * Author:            Grok + Руслан
+ * Author:            Bilihash Руслан
  * License:           GPL-2.0+
  * Text Domain:       ruslan-ai-design-generator
  * Requires PHP:      8.2
