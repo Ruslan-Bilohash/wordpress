@@ -40,6 +40,22 @@ It is no longer actively developed and may cause class name conflicts.
 
 **Recommendation:** Deactivate **GROK XAI AI Design Generator** and use **xForge AI** instead.
 
+
+---
+
+### 🎯 2 Скриншоти, які потрібно зробити:
+
+Назва: **Block Interface**  
+Що знімати:
+- Gutenberg редактор
+- Доданий блок «AI News Generator Chat GPT»
+- Відкрита права бічна панель з полями (Назва новини, Короткий опис, Тон, Довжина, Toggle Meta)
+
+Назва: **Generated News Example**  
+Що знімати:
+- Готову згенеровану новину всередині блоку (повний текст новини)
+- Бажано показати також Meta Description та Meta Keywords (якщо вони відображаються)
+
 ---
 
 ## 🚀 Installation
