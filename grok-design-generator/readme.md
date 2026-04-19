@@ -5,7 +5,7 @@
 
 ![SCREEN](grokscreen.jpg)
 **Version:** 4.0.2  
-**Author:** Grok + Руслан  
+**Author:** Bilohash Ruslan
 **License:** GPL-2.0+
 
 ---
