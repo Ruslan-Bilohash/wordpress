@@ -10,7 +10,7 @@
 define('OPENAI_API_KEY', 'sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX');
 
 ---
-![W](screen.jpg)
+![SCREEN](screen.jpg)
 ## ✨ Основні можливості
 
 - **Генерація окремих блоків** — форми, герої, секції, картки тощо з Tailwind CSS
